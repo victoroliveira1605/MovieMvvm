@@ -13,7 +13,7 @@
  - Utilizei Koin para injeção de dependências.
  
 ### Modelo
- - Utilização de Data class e Gson para mspeamento de atributos.
+ - Utilização de Data class e Gson para mapeamento de atributos.
  
 ### ViewModel
  - Comunicação com a camada network, sendo responsavel pela comunicação com a views.
