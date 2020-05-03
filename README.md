@@ -1,6 +1,10 @@
 # Movies
  - Arquitetura: MVVM.
  - Linguagem: Kotlin.
+ 
+ ## Demo
+
+![Farmers Market Finder Demo](demo/MovieMVVM.gif)
 
 ## Soluções técnicas
 
